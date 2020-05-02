@@ -1,6 +1,6 @@
 {
   "name": "@salte-auth/wso2",
-  "version": "1.0.0-rc.1",
+  "version": "3.0.0",
   "main": "dist/wso2.min.js",
   "module": "dist/wso2.min.mjs",
   "types": "dist/wso2.d.ts",
